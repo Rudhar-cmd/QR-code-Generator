@@ -36,4 +36,4 @@ It’s ideal for beginners who want to learn how to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/Rudhar-cmd/qr-code-generator.git
